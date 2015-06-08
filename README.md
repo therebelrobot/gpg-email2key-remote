@@ -1,2 +1,2 @@
 # gpg-listkeys-remote
-A simple node module that queries a keyserver for keys corresponding with input email address, imports key locally. Requires GPG.
+A simple node module that lists any key corresponding to input email address, queried from a remote keyserver. Requires GPG.
